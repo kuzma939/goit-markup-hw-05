@@ -786,7 +786,7 @@ font-weight: 500;
  
 
 }
-.input-class:focus .form-svg-a {
+.input-class:focus + .form-svg-a {
     fill: #4D5AE5;
 }
 
@@ -836,7 +836,7 @@ font-weight: 500;
     
 }
 
-.visually-hidden.checkbox:checked + .boks-label > .boks-span {
+.checkbox:checked + .boks-label > .boks-span {
     background-color: #4044bf;
     border: none;
     fill: #F4F4FD;
