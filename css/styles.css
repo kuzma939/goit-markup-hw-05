@@ -837,7 +837,7 @@ font-weight: 500;
 }
 
 .checkbox:checked + .boks-label > .boks-span {
-    background-color: #4044bf;
+    background-color: #404bbf; 
     border: none;
     fill: #F4F4FD;
 }
